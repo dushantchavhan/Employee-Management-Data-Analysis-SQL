@@ -36,4 +36,4 @@ This project demonstrates hands-on SQL skills and problem-solving
 ability, making it suitable for entry-level Data Analyst roles.
 
 ## 📎 File Included
-- `SQL Project-1 Answers.sql`
+- `SQL Project - Employee Management.sql`
