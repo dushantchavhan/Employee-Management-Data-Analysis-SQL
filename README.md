@@ -4,7 +4,7 @@
 This project focuses on analyzing employee data using SQL to extract
 meaningful business insights. It demonstrates practical data analysis
 skills such as data querying, aggregation, and multi-table joins.
-
+ 
 ## 📂 Dataset Description
 The dataset contains:
 - Employee details (ID, name, age, gender)
