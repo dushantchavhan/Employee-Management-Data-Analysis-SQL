@@ -1,5 +1,5 @@
 # Employee Data Analysis using SQL
-    
+     
 ## 📌 Project Overview
 This project focuses on analyzing employee data using SQL to extract
 meaningful business insights. It demonstrates practical data analysis
